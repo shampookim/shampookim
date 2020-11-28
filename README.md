@@ -1,6 +1,9 @@
 <!--
 **shampookim/shampookim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+* Codeforces: [Shampookim](https://codeforces.com/profile/Shampookim) [![](https://run.kaist.ac.kr/badges/codeforces/justice_hui.svg)](https://codeforces.com/profile/Shampookim)
+* Atcoder: [Shampookim](https://atcoder.jp/users/Shampookim) [![](https://run.kaist.ac.kr/badges/atcoder/Shampookim.svg)](https://atcoder.jp/users/Shampookim)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -26,10 +29,8 @@ Here are some ideas to get you started:
 
 ## 💻 Online Judge
 
-* BOJ: [jhnah917](http://icpc.me/jhnah917)
-  * solvedac: [jhnah917](https://solved.ac/profile/jhnah917)
-* Codeforces: [Justice_Hui](https://codeforces.com/profile/Justice_Hui) [![](https://run.kaist.ac.kr/badges/codeforces/justice_hui.svg)](https://codeforces.com/profile/Justice_Hui)
-* Atcoder: [JusticeHui](https://atcoder.jp/users/JusticeHui) [![](https://run.kaist.ac.kr/badges/atcoder/JusticeHui.svg)](https://atcoder.jp/users/JusticeHui)
+* BOJ: [rid](http://icpc.me/rid)
+* solvedac: [rid](https://solved.ac/profile/rid)
 
 ## ⚡ Project
 
