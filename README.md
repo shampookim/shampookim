@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Jeagun Kim <sub>shampookim</sub>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjusticeHui)](https://github.com/shampookim)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshampookim)](https://github.com/shampookim)
 
 ## 😄 Profile
 
