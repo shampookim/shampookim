@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 ## ⚡ Project
 
 * [행동분류](https://github.com/shampookim/Greduation-Project) : human activity recognition with deep learning
-* [코진감래](https://github.com/shampookim/MyProjects/tree/master/%EC%BD%94%EC%A7%84%EA%B0%90%EB%9E%98) : Web service using public data
+</br>
+This is the Samsung Youth SW Academy Projects, a private repository
+Please send me a confirmation email
+* [코진감래](https://github.com/shampookim/MyProjects/tree/master/%EC%BD%94%EC%A7%84%EA%B0%90%EB%9E%98) : Web service using public data - Private
 * [COVID 19 CUT](https://github.com/shampookim/MyProjects/tree/master/COVID%2019%20CUT) : Covid 19 entry and exit management
 * [Brain Flex](https://github.com/shampookim/MyProjects/tree/master/Brain%20Flex) : Algorithm problem recommendation
 * [맛고라](https://github.com/shampookim/MyProjects/tree/master/%EB%A7%9B%EA%B3%A0%EB%9D%BC) : A friend-based restaurant map
